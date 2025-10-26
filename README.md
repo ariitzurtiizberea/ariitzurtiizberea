@@ -64,7 +64,7 @@ Mi conjunto de herramientas está diseñado para cubrir todo el ciclo de desarro
 
 Mi actividad principal en GitHub se centrará en demostrar la aplicación práctica de mis conocimientos, priorizando:
 
-* **Proyectos Escolares Avanzados:** Soluciones de desarrollo Full-Stack utilizando **Laravel** (PHP) o **Spring/SpringBoot** (Java), con implementación de patrones de diseño.
+* **Proyectos Escolares Avanzados:** Soluciones de desarrollo Full-Stack, con implementación de patrones de diseño.
 * **Integración IA:** Proyectos de prueba de concepto que integren modelos de Machine Learning (Python) con aplicaciones web (API REST).
 * **Desafíos de Código:** Repositorios que muestren la resolución eficiente de problemas algorítmicos.
 
