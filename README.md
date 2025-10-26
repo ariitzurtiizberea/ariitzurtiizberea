@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_GITHUB]&label=Visitas+a+mi+Perfil&color=0077B6" alt="Contador de Visitas">
+  <img src="https://komarev.com/ghpvc/?username=ariitzurtiizberea&label=Visitas+a+mi+Perfil&color=0077B6" alt="Contador de Visitas">
 </p>
 
 </div>
@@ -77,7 +77,7 @@ Mi actividad principal en GitHub se centrará en demostrar la aplicación práct
 Estoy abierto a la colaboración, el networking y nuevas oportunidades de aprendizaje profesional.
 
 * **LinkedIn (Recomendado para Contacto Profesional):** [**Tu Enlace a LinkedIn**](https://www.linkedin.com/in/aritz-urtizberea-1099b82a1/)
-* **Email:** ariitzurtiizberea
+* **Email:** ariitzurtiizberea@gmail.com
 * **Mi Perfil de GitHub:** [ariitzurtiizberea](https://github.com/ariitzurtiizberea)
 
 ---
@@ -86,6 +86,6 @@ Estoy abierto a la colaboración, el networking y nuevas oportunidades de aprend
   
   <p>✨ <b>"El código es la ley; la innovación, la meta."</b> ✨</p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=default&hide_rank=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariitzurtiizberea&show_icons=true&theme=default&hide_rank=true" alt="Estadísticas de GitHub" />
   
 </div>
