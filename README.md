@@ -16,7 +16,7 @@
 
 ---
 
-### 🎯 Sobre Mí: El Camino Hacia la Excelencia
+### 🎯 Sobre Mí
 
 Soy estudiante de 2º año de **Desarrollo de Aplicaciones Web (DAW)**, con una sólida base técnica en programación orientada a objetos y desarrollo web Full-Stack. Mi enfoque actual está en la excelencia práctica y la integración de tecnologías emergentes.
 
